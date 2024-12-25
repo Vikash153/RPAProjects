@@ -1,2 +1,3 @@
 # RPAProjects
-My Projects Repository. It includes custom actions and automated flow.
+My RPA Projects Repository. It includes custom actions and automated flow.
+Author: Vikash Anand
